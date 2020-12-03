@@ -1,6 +1,6 @@
 package com.xhwl.mylibrary;
 
-class text {
+public class text {
 
     public int text1(int s){
 
