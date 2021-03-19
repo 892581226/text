@@ -22,6 +22,8 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.TimePicker;
 
+import com.xhwl.mylibrary.text;
+
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -56,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
         mPopupWindow.setFocusable(true);
         mPopupWindow.setTouchable(true);
         mPopupWindow.setAnimationStyle(R.style.set_new_wind);
-
+        text text = new text();
 
         tv = findViewById(R.id.tv);
         tv.setOnClickListener(new View.OnClickListener() {

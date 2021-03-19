@@ -23,5 +23,5 @@
         android:layout_weight="1"
         android:timePickerMode="spinner"
         android:background="#ffffff"
-        />
+        tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>

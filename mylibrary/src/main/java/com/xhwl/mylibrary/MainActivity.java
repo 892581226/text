@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.example.smarthome.iot.HomeSmartFragment;
+
 
 public class MainActivity extends AppCompatActivity {
 
